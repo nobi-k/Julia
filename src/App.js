@@ -31,7 +31,7 @@ function App() {
                 Юлия
               </Text>
               <Text color='gray.500'>
-                Kazan Lyceum student
+                Kazan student
               </Text>
               <Text>
                 <Code fontSize="xl">Illustrator</Code> <Code fontSize="xl">Content Manager</Code>
