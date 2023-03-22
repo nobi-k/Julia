@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Julia/static/js/main.863646d2.js",
+    "static/js/787.98398904.chunk.js": "/Julia/static/js/787.98398904.chunk.js",
+    "static/media/avatar.png": "/Julia/static/media/avatar.7e92bc30e3f7350ab470.png",
+    "index.html": "/Julia/index.html",
+    "main.863646d2.js.map": "/Julia/static/js/main.863646d2.js.map",
+    "787.98398904.chunk.js.map": "/Julia/static/js/787.98398904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.863646d2.js"
+  ]
+}
